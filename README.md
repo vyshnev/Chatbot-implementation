@@ -4,17 +4,18 @@ This repository contains three different approaches to building chatbots, each d
 
 ## Repository Structure
 
+```
 chatbot-implementation/
 ├── simple-nn-chatbot/          # Basic neural network approach
 ├── transformers-chatbot/       # Transformer architecture implementation
 ├── rag-chatbot/               # Retrieval-Augmented Generation chatbot
 └── README.md                  # This file
-
+```
 
 ## 🤖 Chatbot Implementations
 
 1. Simple Neural Network Chatbot
-### Location: `simple-nn-chatbot/`
+### Location: `simple-NN-chatbot/`
 A foundational implementation using basic neural networks for intent classification and response generation.
 
 ### Features:
