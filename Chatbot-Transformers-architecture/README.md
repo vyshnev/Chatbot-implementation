@@ -42,10 +42,10 @@ The primary goal of this repository is to showcase the complete pipeline and arc
 | **Vocabulary Size** | 15,729 | Total unique words in the vocabulary. |
 
 
-| Training Detiails |
+| Training Detiails | Parameters used |
 | :--- | :--- |
 | **Optimizer** | Adam with AdamWarmup Scheduler |
-| L**oss Function** | KL Divergence with Label Smoothing |
+| **Loss Function** | KL Divergence with Label Smoothing |
 | **Epochs Trained** | 10 |
 | **Final Training Loss** | ~30 |
 
